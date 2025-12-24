@@ -56,7 +56,19 @@ for environmental data analysis.
 
 
 
-> Note: The original project report is written in Spanish, as it was developed
+\## Additional Material
+
+
+
+\- Presentation/forest-fire-analysis-presentation.pdf`: slides used to present
+
+&nbsp; and discuss the project results.
+
+
+
+
+
+> Note: The original project presentation is written in Spanish, as it was developed
 
 > during academic coursework.
 
