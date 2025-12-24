@@ -20,35 +20,35 @@ and reproducible analysis.
 
 
 
-\- \*\*data-analysis-projects/\*\*  
+\- \*\*data-analysis-projects/\*\*
 
-&nbsp; Data analysis projects using real-world datasets, including dimensionality
+  Data analysis projects using real-world datasets, including dimensionality
 
-&nbsp; reduction, clustering, and exploratory data analysis.
-
-
-
-\- \*\*operations-research/\*\*  
-
-&nbsp; Optimization and mathematical modeling projects, including linear,
-
-&nbsp; integer, and non-linear programming.
+  reduction, clustering, and exploratory data analysis.
 
 
 
-\- \*\*statistics/\*\*  
+\- \*\*operations-research/\*\*
 
-&nbsp; Statistical inference projects focused on estimation and uncertainty
+  Optimization and mathematical modeling projects, including linear,
 
-&nbsp; quantification.
+  integer, and non-linear programming.
 
 
 
-\- \*\*experimental-physics/\*\*  
+\- \*\*statistics/\*\*
 
-&nbsp; Experimental physics projects included as quantitative background,
+  Statistical inference projects focused on estimation and uncertainty
 
-&nbsp; emphasizing data fitting, error analysis, and model validation.
+  quantification.
+
+
+
+\- \*\*experimental-physics/\*\*
+
+  Experimental physics projects included as quantitative background,
+
+  emphasizing data fitting, error analysis, and model validation.
 
 
 
@@ -83,6 +83,20 @@ and computational analysis.
 This portfolio is intended to showcase my approach to problem-solving,
 
 data analysis, and model-based reasoning.
+
+
+
+---
+
+
+
+\## 📄 Language Note
+
+
+
+Some project reports and notebooks are written in Spanish, as they were
+
+developed during my academic coursework.
 
 
 
