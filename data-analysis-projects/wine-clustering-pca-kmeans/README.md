@@ -34,3 +34,13 @@ is applied for dimensionality reduction, followed by K-Means clustering.
 
 
 
+\## Dataset
+
+
+
+The dataset used in this project is the Wine Quality dataset from the
+
+UCI Machine Learning Repository (ID: 186). The data is loaded directly
+
+using the `ucimlrepo` Python package.
+
