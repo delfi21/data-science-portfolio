@@ -43,15 +43,6 @@ and reproducible analysis.
   quantification.
 
 
-
-\- \*\*experimental-physics/\*\*
-
-  Experimental physics projects included as quantitative background,
-
-  emphasizing data fitting, error analysis, and model validation.
-
-
-
 \## Tools \& Technologies
 
 
