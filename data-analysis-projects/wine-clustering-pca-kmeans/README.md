@@ -28,7 +28,7 @@ is applied for dimensionality reduction, followed by K-Means clustering.
 
 \- `figures/`: key visualizations
 
-\- `analysis.ipynb`: full analysis notebook
+\- `Wine_clustering.ipynb`: full analysis notebook
 
 \- `report/`: academic report (Spanish) detailing the methodology and results
 

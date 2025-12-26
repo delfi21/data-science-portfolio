@@ -44,6 +44,10 @@ temporal patterns associated with fire-affected areas.
 
 \- Seaborn 
 
+## Repository Structure
+- `forest-fire-clustering.ipynb`: full regression analysis notebook
+- `data/`: directory reserved for data 
+- `figures/`: visualizations and diagnostic plots
 
 
 \## Results
