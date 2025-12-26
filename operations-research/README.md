@@ -56,6 +56,8 @@ constraints.
 
 \- `figures/`: visual representations of generated schedules
 
+\- `analysis.ipynb`: Jupyter notebook containing the integer programming model and optimization experiments
+
 \- `report/`: full academic report (in Spanish)
 
 
