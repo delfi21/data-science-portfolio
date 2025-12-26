@@ -49,7 +49,7 @@ and reproducible analysis.
 
 \- Python (Pandas, NumPy, SciPy, scikit-learn)
 
-\- R 
+\- R (for statistical analysis and simulations)
 
 \- Data visualization (Matplotlib, Seaborn)
 
