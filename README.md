@@ -49,6 +49,8 @@ and reproducible analysis.
 
 \- Python (Pandas, NumPy, SciPy, scikit-learn)
 
+\- R 
+
 \- Data visualization (Matplotlib, Seaborn)
 
 \- Optimization tools
