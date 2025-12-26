@@ -16,7 +16,7 @@ and reproducible analysis.
 
 
 
-\## 📂 Repository Structure
+\## Repository Structure
 
 
 
@@ -52,7 +52,7 @@ and reproducible analysis.
 
 
 
-\## 🛠️ Tools \& Technologies
+\## Tools \& Technologies
 
 
 
@@ -68,7 +68,7 @@ and reproducible analysis.
 
 
 
-\## 📌 About Me
+\## About Me
 
 
 
@@ -90,7 +90,7 @@ data analysis, and model-based reasoning.
 
 
 
-\## 📄 Language Note
+\## Language Note
 
 
 
