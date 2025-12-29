@@ -81,4 +81,8 @@ The original paper can be found at:
 https://www.sciencedirect.com/science/article/abs/pii/S0377221717303909
 
 
+> Note: The original project presentation is written in Spanish, as it was developed
+during academic coursework.
+
+> Note: This project was developed as part of a university group assignment. All team members contributed to the different stages of the project.
 
