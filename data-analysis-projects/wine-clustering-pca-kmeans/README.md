@@ -3,9 +3,7 @@
 
 
 This project explores the use of unsupervised learning techniques to identify
-
 patterns in wine chemical composition data. Principal Component Analysis (PCA)
-
 is applied for dimensionality reduction, followed by K-Means clustering.
 
 
@@ -41,10 +39,7 @@ is applied for dimensionality reduction, followed by K-Means clustering.
 
 
 The dataset used in this project is the Wine Quality dataset from the
-
-UCI Machine Learning Repository (ID: 186). The data is loaded directly
-
-using the `ucimlrepo` Python package.
+UCI Machine Learning Repository (ID: 186). The data is loaded directly using the `ucimlrepo` Python package.
 
 
 > Note: The original project presentation is written in Spanish, as it was developed
