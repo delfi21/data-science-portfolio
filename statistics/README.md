@@ -69,6 +69,11 @@ quantification for small sample sizes.
 &nbsp; all analysis and figures are self-contained in this repository
 
 
+> Note: The original project presentation is written in Spanish, as it was developed
+during academic coursework.
+
+> Note: This project was developed as part of a university group assignment. All team members contributed to the different stages of the project.
+
 
 
 
